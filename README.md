@@ -40,4 +40,4 @@ I read a lot — tech, history, whatever expands the picture. I meditate, which 
 
 ## Reach out
 
-Happy to talk shop — CrowdStrike, Zscaler, SOC operations, whatever. [LinkedIn] · [Twitter/X]
+Happy to talk shop — CrowdStrike, Zscaler, SOC operations, whatever. [https://www.linkedin.com/in/peeyushrao/] · [https://x.com/peeyushrao]
