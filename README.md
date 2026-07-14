@@ -40,10 +40,12 @@ I read a lot — tech, history, whatever expands the picture. I meditate, which 
 
 ## Reach out
 
-Happy to talk shop — CrowdStrike, Zscaler, SOC operations, whatever. Good goversations are underated but they are everything. 
-<a href="https://www.linkedin.com/in/peeyushrao/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/peeyushrao">
-  <img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/>
-</a>
+Happy to talk shop — CrowdStrike, Zscaler, SOC operations, whatever. Good conversations are underrated but they're everything.
+
+<p>
+  <img src="https://cdn.simpleicons.org/x/000000" width="18" height="18" valign="middle"/> <a href="https://x.com/peeyushrao">peeyushrao</a>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="18" height="18" valign="middle"/> <a href="https://github.com/peeyushrao">peeyushrao</a>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18" valign="middle"/> <a href="https://www.linkedin.com/in/peeyushrao/">peeyushrao</a>
+</p>
